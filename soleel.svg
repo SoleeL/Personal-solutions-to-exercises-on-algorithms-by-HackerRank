@@ -3,7 +3,7 @@
 
 <body>
 
-    <svg width="700" height="300">
+    <svg width="700" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
         <rect x="10" y="10" width="625" height="10" fill="black" />
         <text x="10" y="175" fill="black" font-size="200" font-family="sans-serif">
             SoleeL
