@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/SoleeL/Personal-solutions-to-exercises-on-algorithms-by-HackerRank/b99c7853c94bdf6707631e0bda93e94c722a65f0/soleel.svg">
+    <img src="https://raw.githubusercontent.com/SoleeL/Personal-solutions-to-exercises-on-algorithms-by-HackerRank/b99c7853c94bdf6707631e0bda93e94c722a65f0/soleel.svg"/>
 </p>
 
 ![GitHub license](https://img.shields.io/github/license/SoleeL/Personal-solutions-to-exercises-on-algorithms-by-HackerRank)
