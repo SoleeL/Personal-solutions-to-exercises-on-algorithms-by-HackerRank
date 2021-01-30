@@ -1,5 +1,5 @@
 <p align="center">
-    <svg width="700" height="300"> <rect x="10" y="10" width="625" height="10" fill="black" /> <text x="10" y="175" fill="black" font-size="200" font-family="sans-serif"> SoleeL </text> <text x="18" y="260" fill="black" font-size="87" font-family="sans-serif"> Junior to Senior </text><rect x="10" y="275" width="625" height="10" fill="black" /></svg>
+    <img src="soleel.svg">
 </p>
 
 ![GitHub license](https://img.shields.io/github/license/SoleeL/Personal-solutions-to-exercises-on-algorithms-by-HackerRank)
