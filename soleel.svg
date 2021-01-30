@@ -1,19 +1,12 @@
-<!DOCTYPE html>
-<html>
-
-<body>
-
-    <svg width="700" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-        <rect x="10" y="10" width="625" height="10" fill="black" />
-        <text x="10" y="175" fill="black" font-size="200" font-family="sans-serif">
-            SoleeL
-        </text>
-        <text x="18" y="260" fill="black" font-size="87" font-family="sans-serif">
-            Junior to Senior
-        </text>
-        <rect x="10" y="275" width="625" height="10" fill="black" />
-    </svg>
-
-</body>
-
-</html>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="700" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <rect x="10" y="10" width="625" height="10" fill="black" />
+    <text x="10" y="175" fill="black" font-size="200" font-family="sans-serif">
+        SoleeL
+    </text>
+    <text x="18" y="260" fill="black" font-size="87" font-family="sans-serif">
+        Junior to Senior
+    </text>
+    <rect x="10" y="275" width="625" height="10" fill="black" />
+</svg>
